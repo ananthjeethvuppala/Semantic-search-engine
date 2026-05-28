@@ -7,7 +7,7 @@ documents = load_corpus("documents/corpus.txt")
 
 embeddings, model = create_embeddings(documents)
 
-query = "I want to learn AI"
+query = input("Enter search query: ")
 query_embeddings = model.encode(query)
 
 scores = calculate_similarity(query_embeddings, embeddings)

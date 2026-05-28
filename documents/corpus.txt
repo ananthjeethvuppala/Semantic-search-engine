@@ -9,3 +9,91 @@ Artificial intelligence is transforming industries.
 Natural language processing helps computers understand text.
 
 Data science involves statistics and machine learning.
+
+Neural networks are inspired by the human brain.
+
+Computer vision enables machines to understand images.
+
+Python libraries like NumPy and Pandas are useful for data analysis.
+
+Artificial intelligence powers recommendation systems.
+
+Machine learning models improve with more training data.
+
+Supervised learning uses labeled datasets for training.
+
+Unsupervised learning finds hidden patterns in data.
+
+Reinforcement learning helps agents learn through rewards.
+
+Deep learning is commonly used in speech recognition.
+
+Natural language processing is used in chatbots and virtual assistants.
+
+Data scientists analyze large datasets to gain insights.
+
+Python is one of the most popular programming languages.
+
+Big data technologies help process massive datasets.
+
+Artificial intelligence is used in healthcare and finance.
+
+Computer vision is used in self-driving cars.
+
+Machine learning helps detect spam emails.
+
+Recommendation systems are used by Netflix and YouTube.
+
+Python is beginner-friendly and easy to learn.
+
+Statistics plays an important role in data science.
+
+Deep learning models require high computational power.
+
+Transformers are widely used in modern NLP applications.
+
+Large language models are trained on huge datasets.
+
+Semantic search helps find meaning instead of keywords.
+
+Vector embeddings represent the meaning of text.
+
+Chatbots use NLP to communicate with users.
+
+Data preprocessing is important before training ML models.
+
+Feature engineering improves machine learning performance.
+
+Classification models predict categories from input data.
+
+Regression models predict continuous values.
+
+Clustering groups similar data points together.
+
+Artificial intelligence can automate repetitive tasks.
+
+Data visualization helps understand trends in data.
+
+Machine learning is used in fraud detection.
+
+Python supports many libraries for machine learning.
+
+TensorFlow and PyTorch are popular deep learning frameworks.
+
+Semantic search improves information retrieval systems.
+
+NLP helps computers understand human language.
+
+Search engines rank documents based on relevance.
+
+Data cleaning improves model performance.
+
+Embeddings help measure semantic similarity.
+
+Generative AI can create text, images, and code.
+
+Recommendation algorithms personalize user experiences.
+
+Cybersecurity systems use AI to detect threats.
+
+Cloud computing supports scalable machine learning systems.
