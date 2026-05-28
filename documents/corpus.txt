@@ -1,0 +1,11 @@
+Machine learning is a subset of artificial intelligence.
+
+Python is widely used in data science.
+
+Deep learning helps in computer vision.
+
+Artificial intelligence is transforming industries.
+
+Natural language processing helps computers understand text.
+
+Data science involves statistics and machine learning.
